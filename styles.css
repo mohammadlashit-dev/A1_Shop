@@ -31,4 +31,5 @@ body {margin:0; font-family:"Cairo",sans-serif; background:var(--bg); color:var(
 .field input, .field select {padding:8px; border-radius:8px; border:1px solid #444; background:#111; color:#fff;}
 .actions {margin-top:12px; display:flex; gap:8px; justify-content:flex-end;}
 .admin-table {width:100%; border-collapse:collapse; margin-top:12px;}
+
 .admin-table th, .admin-table td {border:1px solid #333; padding:6px; text-align:center;}
